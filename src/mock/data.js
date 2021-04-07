@@ -34,10 +34,19 @@ export const projectsData = [
     img: 'project.jpg',
     title: 'The Burger Builder',
     info:
-      'This porject was built with react-create-app. I also used Boostrap, React-Form-Hook and firebase.',
+      'This porject was built with react-create-app. I also used Bootsrap, React-Form-Hook and firebase.',
     info2: '',
     url: 'https://nitsancohen770.github.io/newBurger/',
     repo: 'https://github.com/NitsanCohen770/newBurger/tree/master', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'project2.jpg',
+    title: 'The Rebbe is alive',
+    info: 'One of my first projects. Was built mostly with React and Bootsrap',
+    info2: '',
+    url: 'https://rebbeisalive.com/',
+    repo: '', // if no repo, the button will not show up
   },
 ];
 

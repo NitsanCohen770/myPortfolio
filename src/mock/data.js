@@ -36,7 +36,7 @@ export const projectsData = [
     info:
       'This porject was built with react-create-app. I also used Bootsrap, React-Form-Hook and firebase.',
     info2: '',
-    url: 'https://nitsancohen770.github.io/newBurger/',
+    url: 'https://priceless-murdock-fbed8e.netlify.app/',
     repo: 'https://github.com/NitsanCohen770/newBurger/tree/master', // if no repo, the button will not show up
   },
   {

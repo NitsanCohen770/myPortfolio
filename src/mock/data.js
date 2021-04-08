@@ -24,7 +24,7 @@ export const aboutData = {
     'Since then I have achieved a lot. I have 4 sweet children, as you can see on the profile image, and a long beard :) ',
   paragraphThree:
     'On recent years I had decided to dedicate my time and go back into web development while learning all the new technologies',
-  resume: 'https://my.indeed.com/p/nitsanc-spvgpi9', // if no resume, the button will not show up
+  resume: 'https://docdro.id/SRW6azM', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA

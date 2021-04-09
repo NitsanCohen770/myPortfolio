@@ -46,7 +46,7 @@ export const projectsData = [
     info: 'One of my first projects. Was built mostly with React and Bootsrap',
     info2: '',
     url: 'https://rebbeisalive.com/',
-    repo: '', // if no repo, the button will not show up
+    repo: 'https://github.com/NitsanCohen770/rebbe/tree/master', // if no repo, the button will not show up
   },
 ];
 

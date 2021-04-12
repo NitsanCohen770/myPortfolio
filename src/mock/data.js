@@ -59,28 +59,39 @@ export const contactData = {
 
 // FOOTER DATA
 export const footerData = {
-  networks: [],
+  networks: [
+    {
+      id: nanoid(),
+      name: 'github',
+      url: 'https://github.com/NitsanCohen770/',
+    },
+    {
+      id: nanoid(),
+      name: 'linkedin',
+      url: 'https://www.linkedin.com/in/nitsan-cohen-64b73920b/',
+    },
+  ],
 };
-//     {
-//       id: nanoid(),
-//       name: 'twitter',
-//       url: '',
-//     },
-//     {
-//       id: nanoid(),
-//       name: 'codepen',
-//       url: '',
-//     },
-//     {
-//       id: nanoid(),
-//       name: 'linkedin',
-//       url: '',
-//     },
-//     {
-//       id: nanoid(),
-//       name: 'github',
-//       url: '',
-//     },
+// {
+//   id: nanoid(),
+//   name: 'twitter',
+//   url: '',
+// },
+// {
+//   id: nanoid(),
+//   name: 'codepen',
+//   url: '',
+// },
+// {
+//   id: nanoid(),
+//   name: 'linkedin',
+//   url: '',
+// },
+// {
+//   id: nanoid(),
+//   name: 'github',
+//   url: '',
+// },
 
 // Github start/fork buttons
 export const githubButtons = {

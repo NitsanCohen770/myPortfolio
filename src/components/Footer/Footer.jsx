@@ -3,7 +3,6 @@ import { Container } from 'react-bootstrap';
 import { Link } from 'react-scroll';
 import PortfolioContext from '../../context/context';
 import GithubButtons from '../GithubButtons/GithubButtons';
-
 import { githubButtons } from '../../mock/data';
 
 const Footer = () => {

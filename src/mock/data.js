@@ -23,7 +23,7 @@ export const aboutData = {
   paragraphTwo:
     'Since then I have achieved a lot. I have 4 sweet children, as you can see on the profile image, and a long beard :) ',
   paragraphThree:
-    'On recent years I had decided to dedicate my time and go back into web development while learning all the new technologies',
+    'In recent years I had decided to dedicate my time and go back into web development while learning all the new technologies',
   resume: 'https://docdro.id/SRW6azM', // if no resume, the button will not show up
 };
 
@@ -34,7 +34,7 @@ export const projectsData = [
     img: 'project.jpg',
     title: 'The Burger Builder',
     info:
-      'This porject was built with react-create-app. I also used Bootsrap, React-Form-Hook and firebase.',
+      'This project was built with react-create-app. I also used Bootstrap, React-Form-Hook and firebase.',
     info2: '',
     url: 'https://priceless-murdock-fbed8e.netlify.app/',
     repo: 'https://github.com/NitsanCohen770/newBurger/tree/master', // if no repo, the button will not show up
@@ -43,7 +43,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'project2.jpg',
     title: 'The Rebbe is alive',
-    info: 'One of my first projects. Was built mostly with React and Bootsrap',
+    info: 'One of my first projects. Was built mostly with React and Bootstrap',
     info2: '',
     url: 'https://rebbeisalive.com/',
     repo: 'https://github.com/NitsanCohen770/rebbe/tree/master', // if no repo, the button will not show up

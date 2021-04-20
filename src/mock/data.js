@@ -37,7 +37,7 @@ export const projectsData = [
       'This project was built with react-create-app. I also used Bootstrap, React-Form-Hook and firebase.',
     info2: '',
     url: 'https://priceless-murdock-fbed8e.netlify.app/',
-    repo: 'https://github.com/NitsanCohen770/newBurger/tree/master', // if no repo, the button will not show up
+    repo: 'https://github.com/NitsanCohen770/newBurger/tree/main', // if no repo, the button will not show up
   },
   {
     id: nanoid(),

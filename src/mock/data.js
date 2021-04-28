@@ -24,7 +24,8 @@ export const aboutData = {
     'Since then I have achieved a lot. I have 4 sweet children, as you can see on the profile image, and a long beard :) ',
   paragraphThree:
     'In recent years I had decided to dedicate my time and go back into web development while learning all the new technologies',
-  resume: 'https://docdro.id/SRW6azM', // if no resume, the button will not show up
+  resume:
+    'https://docs.google.com/document/d/16yKUA9Wn3Fa4hsw3v9Y876TaC1H7qP9oAs56Zd3kGWs/edit?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA

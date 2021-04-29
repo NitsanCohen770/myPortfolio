@@ -25,7 +25,7 @@ export const aboutData = {
   paragraphThree:
     'In recent years I had decided to dedicate my time and go back into web development while learning all the new technologies',
   resume:
-    'https://docs.google.com/document/d/16yKUA9Wn3Fa4hsw3v9Y876TaC1H7qP9oAs56Zd3kGWs/edit?usp=sharing', // if no resume, the button will not show up
+    'https://docs.google.com/document/d/1ELsjvDRK1hoUDTDWgY8bXJs3O0v5cj3B8GrHZ-V_cdw/edit?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA

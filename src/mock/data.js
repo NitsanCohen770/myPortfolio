@@ -49,6 +49,15 @@ export const projectsData = [
     url: 'https://rebbeisalive.com/',
     repo: 'https://github.com/NitsanCohen770/rebbe/tree/master', // if no repo, the button will not show up
   },
+  {
+    id: nanoid(),
+    img: 'project3.jpg',
+    title: 'The Chassidic Vort',
+    info: 'Just a Nice and simple quote exchanger',
+    info2: '',
+    url: 'https://chassidic-vort.netlify.app/',
+    repo: 'https://github.com/NitsanCohen770/quoter', // if no repo, the button will not show up
+  },
 ];
 
 // CONTACT DATA

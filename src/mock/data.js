@@ -32,16 +32,6 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: 'The Burger Builder',
-    info:
-      'This project was built with react-create-app. I also used Bootstrap, React-Form-Hook and firebase.',
-    info2: '',
-    url: 'https://priceless-murdock-fbed8e.netlify.app/',
-    repo: 'https://github.com/NitsanCohen770/newBurger/tree/main', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
     img: 'project2.jpg',
     title: 'The Rebbe is alive',
     info: 'One of my first projects. Was built mostly with React and Bootstrap',

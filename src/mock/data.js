@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: 'Hi there, my name is',
   name: 'Nitsan Cohen',
-  subtitle: 'I am a MERN Fullstack developer',
+  subtitle: 'I am a REACT frontend developer',
   cta: '',
 };
 
@@ -30,6 +30,25 @@ export const aboutData = {
 
 // PROJECTS DATA
 export const projectsData = [
+  {
+    id: nanoid(),
+    img: 'calculator.png',
+    title: 'Nice Calculator',
+    info: 'This project was built with React, Styled components and Storybook',
+    info2: '',
+    url: 'https://frontend-calculator.netlify.app/',
+    repo: 'https://github.com/NitsanCohen770/calculator', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'countdown.png',
+    title: 'A countdown app',
+    info:
+      'This is app was build with React, CSS modules, a little bit of SASS and a lot of love :) ',
+    info2: '',
+    url: 'https://launching-app.netlify.app/',
+    repo: 'https://github.com/NitsanCohen770/countdown', // if no repo, the button will not show up
+  },
   {
     id: nanoid(),
     img: 'project2.jpg',

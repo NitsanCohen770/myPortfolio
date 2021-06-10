@@ -12,7 +12,7 @@ export const heroData = {
   title: 'Hi there, my name is',
   name: 'Nitsan Cohen',
   subtitle: 'I am a REACT frontend developer',
-  cta: '',
+  cta: 'using Gatsby and Next frameworks I create stunning blaze websites. Wanna know more?',
 };
 
 // ABOUT DATA

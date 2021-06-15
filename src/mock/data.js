@@ -12,7 +12,7 @@ export const heroData = {
   title: 'Hi there, my name is',
   name: 'Nitsan Cohen',
   subtitle: 'I am a REACT frontend developer',
-  cta: 'using Gatsby and Next frameworks I create stunning blaze websites. Wanna know more?',
+  cta: 'Using Gatsby and Next frameworks I create stunning blaze websites. Wanna know more?',
 };
 
 // ABOUT DATA
@@ -30,6 +30,15 @@ export const aboutData = {
 
 // PROJECTS DATA
 export const projectsData = [
+  {
+    id: nanoid(),
+    img: 'rps.png',
+    title: 'A Rock Paper Scissors (Spock Lizard) Game',
+    info: 'This project was built with React and CSS modules',
+    info2: 'You should definitely try and play. Be ware you might get addicted!',
+    url: 'https://rpss-game.netlify.app/',
+    repo: 'https://github.com/NitsanCohen770/RSPgame', // if no repo, the button will not show up
+  },
   {
     id: nanoid(),
     img: 'calculator.png',

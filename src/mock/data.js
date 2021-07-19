@@ -32,12 +32,21 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
+    img: 'solarPlanets.png',
+    title: 'An impressive website that shows all the Solar Planets',
+    info: 'I built this project with Gatsby framework and styled-components.',
+    info2: 'Check the source code :D',
+    url: 'https://solar-planets.netlify.app/earth',
+    repo: 'https://github.com/NitsanCohen770/planets',
+  },
+  {
+    id: nanoid(),
     img: 'rps.png',
     title: 'A Rock Paper Scissors (Spock Lizard) Game',
     info: 'This project was built with React and CSS modules',
     info2: 'You should definitely try and play. Be ware you might get addicted!',
     url: 'https://rpss-game.netlify.app/',
-    repo: 'https://github.com/NitsanCohen770/RSPgame', // if no repo, the button will not show up
+    repo: 'https://github.com/NitsanCohen770/RSPgame',
   },
   {
     id: nanoid(),
@@ -46,7 +55,7 @@ export const projectsData = [
     info: 'This project was built with React, Styled components and Storybook',
     info2: '',
     url: 'https://frontend-calculator.netlify.app/',
-    repo: 'https://github.com/NitsanCohen770/calculator', // if no repo, the button will not show up
+    repo: 'https://github.com/NitsanCohen770/calculator',
   },
   {
     id: nanoid(),
@@ -56,7 +65,7 @@ export const projectsData = [
       'This is app was build with React, CSS modules, a little bit of SASS and a lot of love :) ',
     info2: '',
     url: 'https://launching-app.netlify.app/',
-    repo: 'https://github.com/NitsanCohen770/countdown', // if no repo, the button will not show up
+    repo: 'https://github.com/NitsanCohen770/countdown',
   },
   {
     id: nanoid(),
@@ -74,7 +83,7 @@ export const projectsData = [
     info: 'Just a Nice and simple quote exchanger',
     info2: '',
     url: 'https://chassidic-vort.netlify.app/',
-    repo: 'https://github.com/NitsanCohen770/quoter', // if no repo, the button will not show up
+    repo: 'https://github.com/NitsanCohen770/quoter',
   },
 ];
 

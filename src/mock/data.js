@@ -32,7 +32,7 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'solarPlanets.png',
+    img: 'solar.png',
     title: 'An impressive website that shows all the Solar Planets',
     info: 'I built this project with Gatsby framework and styled-components.',
     info2: 'Check the source code :D',
@@ -105,7 +105,7 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'linkedin',
-      url: 'https://www.linkedin.com/in/nitsan-cohen-64b73920b/',
+      url: 'https://www.linkedin.com/in/nitsan-cohen/',
     },
   ],
 };
